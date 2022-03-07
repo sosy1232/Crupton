@@ -1,0 +1,6 @@
+if (condition) then:
+  S1
+  S2
+else:
+  S3
+  S4
